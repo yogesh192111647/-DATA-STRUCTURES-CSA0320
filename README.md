@@ -1,4 +1,4 @@
-# Slot-B-Data-Structures-CSA0373
+# Slot-B-Data-Structures-CSA0320
 
 1.	Write a C program to perform Matrix Multiplication
 
